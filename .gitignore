@@ -1,0 +1,55 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# Streamlit related
+*.streamlit/
+
+# Database files
+*.sqlite3
+
+# Chroma database files
+chroma_db/
+
+# Logs
+*.log
+
+# Operating System specific files
+.DS_Store
+Thumbs.db
+
+# Environment configuration files
+.env
+
+# PyCharm configuration files
+.idea/
+
+# Python test cache
+.pytest_cache/
+
+# Coverage reports
+.coverage
+.coverage.*
+
+# Sphinx build directory
+_build/
+
+# Distribution directories
+dist/
+build/
+*.egg-info/
+
+.README3.md
