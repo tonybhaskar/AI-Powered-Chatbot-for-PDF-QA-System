@@ -99,6 +99,13 @@ pip install -r requirements.txt
          ]
      }
      ```
+## Sample Images
+### RAG Flow
+![RAG flow](sample-images/rag-flow.jpg)
+
+### Postman api-testing
+![Postman API Test samples](sample-images/postman-sample.png)
+![Postman Usage](assets/postman_usage.png)
 
 ## Endpoint Details
 
